@@ -66,4 +66,8 @@ botanical-grimoire/
 
 ## Deployment
 
-This project is deployed on GitHub Pages at https://jay-68.github.io/
+This project is deployed on GitHub Pages at https://jay-68.github.io/botanical-grimoire/
+
+## 📄 License
+ 
+This project is open source and available under the [MIT License](LICENSE).
